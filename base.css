@@ -34,7 +34,7 @@ html {
   .hero {
     max-width: 75rem;
     padding: 0 9.6rem;
-    align-items: left;
+    align-items: center;
   }
 
   .stamp img {
