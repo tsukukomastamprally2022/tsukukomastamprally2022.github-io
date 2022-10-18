@@ -18,4 +18,39 @@ html {
     /**色は変更可**/
   }
   
+  .logo {
+    height: 2.2rem;
+    font-size: 3.6rem;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    color: #462d12;
+  }
+
+  .section-hero {
+    padding: 15rem 0 9.6rem;
+  }
   
+  .hero {
+    max-width: 75rem;
+    padding: 0 9.6rem;
+    align-items: left;
+  }
+
+  .stamp img {
+    width: 500%;
+    justify-self: end;
+    border-radius: 9px;
+  }
+
+  .grid-keyword {
+    grid-template-columns: 1.2fr 0.8fr;
+    gap: 0;
+    filter: drop-shadow(0px 12px 16px rgba(0, 0, 0, 0.2));  
+  }
+
+  footer {
+    text-align: center;
+    background-color: #e7ac21;
+    padding: 2.5rem;
+  }
