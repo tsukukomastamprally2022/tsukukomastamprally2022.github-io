@@ -40,9 +40,10 @@ html {
   }
 
   .stamp img {
-    width: 20%;
+    width: 40%;
     justify-self: end;
     border-radius: 9px;
+    align-items: center;
   }
 
   .grid-keyword {
