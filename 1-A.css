@@ -32,13 +32,13 @@ html {
   }
   
   .hero {
-    max-width: 1000rem;
+    max-width: 100000rem;
     padding: 0rem;
     align-items: right;
   }
 
   .stamp img {
-    width: 90%;
+    width: 20%;
     justify-self: end;
     border-radius: 9px;
   }
