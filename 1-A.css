@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    line-height: 1.5;
+    font-size: 1.5rem;
+    font-weight: 400;
+    overflow-x: hidden;
+    color: #523414;
+    background-color: #e9be5a;
+    /**色は変更可**/
+  }
+  
+  .logo {
+    height: 2.2rem;
+    font-size: 3.6rem;
+    text-decoration: none;
+    text-align: left;
+    font-weight: bold;
+    color: #462d12;
+  }
+
+  .section-hero {
+    padding: 15rem 0rem 0rem;
+  }
+  
+  .hero {
+    max-width: 75rem;
+    padding: 0rem;
+    align-items: center;
+  }
+
+  .stamp img {
+    width: 500%;
+    justify-self: end;
+    border-radius: 9px;
+  }
+
+  .grid-keyword {
+    grid-template-columns: 1.2fr 0.8fr;
+    gap: 0;
+    filter: drop-shadow(0px 12px 16px rgba(0, 0, 0, 0.2));  
+  }
+
+  footer {
+    text-align: center;
+    background-color: #e7ac21;
+    padding: 2.5rem;
+  }
