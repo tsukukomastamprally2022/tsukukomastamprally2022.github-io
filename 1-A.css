@@ -28,13 +28,13 @@ html {
   }
 
   .section-hero {
-    padding: 15rem 0rem 0rem;
+    padding: 15rem 0rem;
   }
   
   .hero {
-    max-width: 75rem;
+    max-width: 100rem;
     padding: 0rem;
-    align-items: center;
+    align-items: right;
   }
 
   .stamp img {
